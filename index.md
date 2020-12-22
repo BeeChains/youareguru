@@ -13,4 +13,4 @@ Listen intuition Guides From Within!
 <script src="//biblia.com/api/logos.biblia.js"></script>
 <script>logos.biblia.init();</script>
 
-- [HNS-DOMAINS/](http://home.hns-domains/)
+- [Inner I Net Company](http://shapereality.innerinetcompany.hns.to)
